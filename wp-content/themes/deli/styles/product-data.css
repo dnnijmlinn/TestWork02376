@@ -1,0 +1,21 @@
+.custom-buttons-container {
+    max-width: 60% !important;
+}
+
+.custom-upload-button {
+    margin: 0px 20px 0px 0px!important;
+}
+
+.clear-button {
+    margin: 5px 20px 0px 40px!important;
+}
+
+.update-button {
+    margin: 5px 20px 0px 0px!important;
+    float: right;
+}
+
+.options_group {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #eee;
+}
